@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCodeFirst", "EFCodeFirst\EFCodeFirst.csproj", "{69E36F7D-9485-4F48-8B49-D140BB9F5C86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCodeFirst.Tests", "EFCodeFirst.Tests\EFCodeFirst.Tests.csproj", "{A3B585D2-B24D-44E3-9845-30B2174E10EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E36F7D-9485-4F48-8B49-D140BB9F5C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E36F7D-9485-4F48-8B49-D140BB9F5C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E36F7D-9485-4F48-8B49-D140BB9F5C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E36F7D-9485-4F48-8B49-D140BB9F5C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B585D2-B24D-44E3-9845-30B2174E10EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B585D2-B24D-44E3-9845-30B2174E10EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B585D2-B24D-44E3-9845-30B2174E10EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B585D2-B24D-44E3-9845-30B2174E10EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
